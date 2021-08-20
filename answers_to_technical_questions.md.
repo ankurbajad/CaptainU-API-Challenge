@@ -1,0 +1,19 @@
+1. How long did you spend on the code challenge? What would you add to your solution
+if you had more time? If you didn't spend much time on the code challenge then use
+this as an opportunity to explain what you would add.
+Answer: Add Rolify and use one table user and define role 'player' and 'coach'
+
+2. What was the most useful feature that was added to the latest version of a language
+you used? Please include a snippet of code that shows how you've used it.
+Answer: Keep the credentails by crendentials.yml.enc and decrypted by using master.key
+
+3. How would you track down a performance issue in production? Have you ever had to
+do this?
+Answer: 
+4. Please describe yourself using JSON
+
+Answer:  
+  {
+	  "Name": "Ankur Bajad",
+	  "Email": "bajadankur23@gmail.com",
+	}
